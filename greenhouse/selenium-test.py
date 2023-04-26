@@ -38,7 +38,7 @@ button = driver.find_element_by_xpath("//button[contains(@aria-describedby, 'res
 button.click()
 
 time.sleep(1)
-ait.write(r'C:\Users\RemCa\OneDrive\Desktop\autoapply\jason.pdf')
+ait.write(r'C:\Users\RemCa\OneDrive\Desktop\autoapply\jakes-resume.pdf')
 time.sleep(1)
 ait.press('enter')
 time.sleep(1)
