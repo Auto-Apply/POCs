@@ -1,0 +1,9 @@
+2023/04/27-02:06:01.360 504c Reusing MANIFEST C:\Users\sethj\Desktop\Programming\POCs\greenhouse\state\Default\Local Storage\leveldb/MANIFEST-000001
+2023/04/27-02:06:01.360 504c Recovering log #3
+2023/04/27-02:06:01.362 504c Reusing old log C:\Users\sethj\Desktop\Programming\POCs\greenhouse\state\Default\Local Storage\leveldb/000003.log 
+2023/04/27-02:06:43.209 4e50 Level-0 table #5: started
+2023/04/27-02:06:43.212 4e50 Level-0 table #5: 79404 bytes OK
+2023/04/27-02:06:43.214 4e50 Delete type=0 #3
+2023/04/27-02:06:59.075 4e50 Level-0 table #7: started
+2023/04/27-02:06:59.077 4e50 Level-0 table #7: 59673 bytes OK
+2023/04/27-02:06:59.079 4e50 Delete type=0 #4

@@ -1,0 +1,6 @@
+2023/04/27-01:52:46.364 92f4 Creating DB C:\Users\sethj\AppData\Local\Temp\scoped_dir16688_1042052824\Default\IndexedDB\chrome-extension_ghhhpepmbmglmpehjalfpcnpdchklikl_0.indexeddb.leveldb since it was missing.
+2023/04/27-01:52:46.368 92f4 Reusing MANIFEST C:\Users\sethj\AppData\Local\Temp\scoped_dir16688_1042052824\Default\IndexedDB\chrome-extension_ghhhpepmbmglmpehjalfpcnpdchklikl_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/27-01:52:46.379 3240 Level-0 table #5: started
+2023/04/27-01:52:46.380 3240 Level-0 table #5: 1273 bytes OK
+2023/04/27-01:52:46.383 3240 Delete type=0 #3
+2023/04/27-01:52:46.384 92f4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

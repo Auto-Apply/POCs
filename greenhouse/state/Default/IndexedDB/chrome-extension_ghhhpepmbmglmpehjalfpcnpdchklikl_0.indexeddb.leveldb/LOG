@@ -1,0 +1,7 @@
+2023/04/27-01:56:01.627 8540 Reusing MANIFEST C:\Users\sethj\Desktop\Programming\POCs\state\Default\IndexedDB\chrome-extension_ghhhpepmbmglmpehjalfpcnpdchklikl_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/27-01:56:01.627 8540 Recovering log #4
+2023/04/27-01:56:01.628 8540 Reusing old log C:\Users\sethj\Desktop\Programming\POCs\state\Default\IndexedDB\chrome-extension_ghhhpepmbmglmpehjalfpcnpdchklikl_0.indexeddb.leveldb/000004.log 
+2023/04/27-01:56:01.643 5500 Level-0 table #8: started
+2023/04/27-01:56:01.646 5500 Level-0 table #8: 53051 bytes OK
+2023/04/27-01:56:01.647 5500 Delete type=0 #4
+2023/04/27-01:56:01.648 1ba4 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
